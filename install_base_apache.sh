@@ -12,3 +12,6 @@ echo ' ---/ install monit'
 apt-get --yes --force-yes install monit
 
  
+echo ' ---/ install utils'
+apt-get --yes --force-yes install zip
+
