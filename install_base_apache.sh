@@ -1,4 +1,4 @@
-echo 'Main web app installation...'
+echo 'Installation with Apache2...'
 
 echo ' ---/ update and upgrade'
 apt-get update
