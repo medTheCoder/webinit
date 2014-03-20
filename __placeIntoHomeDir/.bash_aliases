@@ -4,7 +4,7 @@
 alias __aparestart='/etc/init.d/apache2 restart'
 
 #-- apache cd config
-alias __apacdconfig='/etc/apache2/'
+alias __apacdconfig='cd /etc/apache2/'
 
 
 #-- apache cd default root dir
